@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">المرشد</string>
+    <string name="action_settings">الاعدادات</string>
+    <string name="action_shareEn">الانجليزيه</string>
+    <string name="action_shareAr">العربيه</string>
+    <string name="city_slct">اختار المدينه</string>
+    <string name="firstName">"الاسم الاول  "</string>
+    <string name="lastName">"الاسم الاخير "</string>
+    <string name="navigation_drawer_close">اغلق اعدادات</string>
+    <string name="navigation_drawer_open">افتح الاعدادات</string>
+    <string name="str_confirm_password">تاكيد كلمه السر</string>
+    <string name="str_email">البريد الالكتروني</string>
+
+
+    <string name="str_enter_first_name">الاسم الاول غير صحيح</string>
+    <string name="str_enter_last_name">الاسم الاخير غير صحيح</string>
+    <string name="str_enter_password">كلمه السر غير  صحيحه</string>
+    <string name="str_enter_valid_email">البريد الالكتروني غير صحيح</string>
+    <string name="str_i_accept">اوافق على الشروط الاستخدام</string>
+    <string name="str_invalid_phone_number">رقم الهاتف غير صحيح</string>
+
+
+    <string name="str_login">دخول</string>
+    <string name="str_login_error">البريد الالكتروني او كلمه السر غير صحيحه</string>
+    <string name="str_password">كلمه السر</string>
+    <string name="str_password_must_be_same">كلمه لا تتوافق</string>
+    <string name="str_phone">الهاتف</string>
+    <string name="str_please_accept">رجاء وافق على الشروط</string>
+    <string name="str_share">مشاركه</string>
+    <string name="str_signup">انشاء حساب</string>
+    <string name="str_signup_notsuccess">البريد الالكتروني غير موجود</string>
+    <string name="str_signup_success">تم انشاء الحساب</string>
+    <string name="str_sure_update">تأكيد التحديث</string>
+    <string name="str_update_notsuccess">لم يتم التحديث</string>
+    <string name="str_update_success">انتهي التحديث</string>
+    <string name="title_activity_home_page">الصفحه الرئيسية</string>
+    <string name="update_info_user">تحديث</string>
+
+
+
+    // dialog log out in homepage
+    <string name="str_title">تسجيل الخروج</string>
+    <string name="str_massge">هل تريد الخروج !</string>
+    <string name="str_yes">نعم</string>
+    <string name="str_no">لا</string>
+
+
+    // dialog information account in homepage
+    <string name="str_title1">معلومات الحساب</string>
+    <string name="str_first_name"> لاسم الاول : </string>
+    <string name="str_last_name">الاسم الثاني : </string>
+    <string name="str_Phone">الهاتف : </string>
+    <string name="str_Email">البريد الالكتروني : </string>
+    <string name="str_ok">موافق</string>
+
+
+    // title map page
+    <string name="str_Police">الشرطة</string>
+    <string name="str_Ambulance">الاسعاف</string>
+    <string name="str_Firefighter">الدفاع المدني</string>
+
+    <string name="str_language">اللغة العربية</string>
+
+
+    <string name="str_massge1">مرحبا </string>
+    <string name="str_massge2">الرجاء التأكد من المعلومات</string>
+
+    // menu in home page
+    <string name="menu_camera">الكاميرا</string>
+    <string name="menu_view">عرض المعلومات</string>
+    <string name="menu_edit">تعديل المعلومات</string>
+    <string name="menu_log_out">تسجيل الخروج</string>
+    <string name="menu_share">مشاركة</string>
+    <string name="menu_send">ارسال</string>
+    <string name="menu_Communicate">الاتصال</string>
+
+    <string-array name="Country">
+        <item>نابلس</item>
+        <item>رام الله</item>
+        <item>جنين</item>
+        <item>اريحا</item>
+        <item>قلقيلية</item>
+        <item>الخليل</item>
+        <item>سلفيت</item>
+        <item>طولكرم</item>
+        <item>بيت لحم</item>
+        <item>القدس</item>
+        <item>طوباس</item>
+
+
+    </string-array>
+    <string name="WiFiConnected">متصل</string>
+    <string name="WiFiNotConnected">فقد الاتصال</string>
+</resources>

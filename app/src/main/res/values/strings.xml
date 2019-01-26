@@ -1,0 +1,80 @@
+<resources>
+    <string name="action_settings">Settings</string>
+    <string name="city_slct">Select a City</string>
+    <string name="app_name">GPS_Helper</string>
+    <string name="action_shareEn">English</string>
+    <string name="action_shareAr">Arabic</string>
+
+    <string name="str_login">Login</string>
+    <string name="str_signup">SignUp</string>
+    <string name="str_email">Email</string>
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+
+
+    <string name="WiFiConnected">Internet Connected</string>
+    <string name="WiFiNotConnected">Lost Internet Connection</string>
+    <string name="str_password">Password</string>
+    <string name="str_enter_valid_email">Invalid Email</string>
+    <string name="str_enter_password">Invalid Password</string>
+    <string name="str_password_must_be_same">Password does not match</string>
+    <string name="str_confirm_password">Confirm password</string>
+    <string name="str_phone">Phone</string>
+    <string name="str_i_accept">I accept terms and conditions</string>
+    <string name="str_invalid_phone_number">Invalid phone number</string>
+    <string name="str_signup_success">Great! You are ready to SignUp.</string>
+    <string name="str_signup_notsuccess">This Email Is Exist.</string>
+    <string name="str_login_error">This Email Or Password Invalid.</string>
+    <string name="str_please_accept">Please accept terms and conditions</string>
+    <string name="str_share">Share</string>
+    <string name="title_activity_home_page">HomePage</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="update_info_user">Update</string>
+    <string name="str_sure_update">I sure update</string>
+    <string name="str_update_success">Done updated.</string>
+    <string name="str_update_notsuccess">Not updated.</string>
+    // dialog log out in homepage
+    <string name="str_title">Log out</string>
+    <string name="str_massge">Do you want to Log out !</string>
+    <string name="str_yes">Yes</string>
+    <string name="str_no">No</string>
+
+
+    // dialog information account in homepage
+    <string name="str_title1">information account</string>
+    <string name="str_first_name">First Name : </string>
+    <string name="str_last_name">Last Name : </string>
+    <string name="str_Phone">Phone : </string>
+    <string name="str_Email">Email : </string>
+    <string name="str_ok">OK</string>
+
+
+    <string name="str_massge1">Welcome </string>
+
+    // menu in home page
+    <string name="menu_camera">Camera</string>
+    <string name="menu_view">View</string>
+    <string name="menu_edit">Edit</string>
+    <string name="menu_log_out">Log Out</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="menu_Communicate">Communicate</string>
+
+    <string-array name="Country">
+        <item>Nablus</item>
+        <item>Ramallah</item>
+        <item>Jenin</item>
+        <item>Jericho</item>
+        <item>Qalqilya</item>
+        <item>Hebron</item>
+        <item>Salfit</item>
+        <item>Toulkarem</item>
+        <item>Bethlehem</item>
+        <item>Jerusalem</item>
+        <item>Tubas</item>
+
+
+    </string-array>
+    <string name="title_activity_map_page">Map</string>
+</resources>
